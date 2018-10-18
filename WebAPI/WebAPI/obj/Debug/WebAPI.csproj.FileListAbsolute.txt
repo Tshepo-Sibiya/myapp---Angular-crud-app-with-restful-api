@@ -35,3 +35,40 @@ F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\projec
 F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
 F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
 F:\profession\Youtube Channel\Dotnet Mob\Angular 4\angular 4 crud web api\project\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\WebAPI.dll.config
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\WebAPI.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\WebAPI.pdb
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\Antlr3.Runtime.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\EntityFramework.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\Newtonsoft.Json.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.Cors.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.Helpers.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.Http.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.Mvc.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.Optimization.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.Razor.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.WebPages.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\WebGrease.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\EntityFramework.xml
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\Newtonsoft.Json.xml
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.Http.xml
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.Helpers.xml
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.Mvc.xml
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.Optimization.xml
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.Razor.xml
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.WebPages.xml
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\bin\Antlr3.Runtime.pdb
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\obj\Debug\WebAPI.dll
+C:\Tshepo-Dev\Angular-Apps\myapp\WebAPI\WebAPI\obj\Debug\WebAPI.pdb
